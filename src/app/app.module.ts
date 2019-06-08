@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { LibraryModule } from 'library';
+import { LibraryModule } from 'ng-workspace-library';
 
 import { AppComponent } from './app.component';
 
