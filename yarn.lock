@@ -197,10 +197,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@anviltech/fui-po@^1.46.0-alpha.2":
-  version "1.46.0-alpha.2"
-  resolved "https://registry.yarnpkg.com/@anviltech/fui-po/-/fui-po-1.46.0-alpha.2.tgz#6f17a9c47abe36567ec6192c6103f5685280f9e0"
-  integrity sha512-sec7fWYkg13N1wd4lWvRMLFSVswGsBGxhl80vI7OrgcQv99yCTkb7Lw4ncKe6y72oTs8FxF8fD6jWtOSY1uNLg==
+"@anviltech/fui-po@^1.46.0-alpha.8":
+  version "1.46.0-alpha.8"
+  resolved "https://registry.yarnpkg.com/@anviltech/fui-po/-/fui-po-1.46.0-alpha.8.tgz#365ca86bc1cbdc32bcbf67baf23d28b78e310741"
+  integrity sha512-/kSgSppf/+rSPkNVanefZN3HVw9dd5QobxU+y/JdSa2FS+umOxbq3mkqnr9j1LAUG4Z6wYrKOQa2zVGiZyeRBA==
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.5.5":
   version "7.5.5"
